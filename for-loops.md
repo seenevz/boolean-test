@@ -91,3 +91,10 @@ arr = []
 
 for (let i = 0; i < 9; ++i) arr[i] = i
 ```
+
+This gives the possibility for abstraction, mention the other types of loops briefly
+
+```
+do...while()
+while()
+```
