@@ -23,6 +23,8 @@ Talk about the need of execute a set of instructions a repeated amount of times 
 
 There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times.
 
+Programatically repeat a task
+
 ## The basic sintax of For Loops
 
 ```js
