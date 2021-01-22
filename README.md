@@ -8,4 +8,4 @@ Live version can be seen [here](https://seenevz.github.io/boolean-test/)
 
 ## For Loops Video
 
-Recorded a 30 mins video about introducing the concepts of for loops. Uploaded to Youtube, and it's live [here](https://youtu.be/faF-grppBmg)
+Recorded a 30 mins video about introducing the concepts of for loops. Uploaded to Youtube, and it's live [here](https://youtu.be/h3aQzKOdX9Y)
